@@ -1,1 +1,8 @@
 # Project-Management-Hardcat-Asset-Management-Software-Implementation-at-Reliable-Delivery-
+
+## PROJECT BUSINESS CASE:
+The project aims to help Reliable Delivery in ensuring the secure delivery of valuable documents using Hardcat asset management software. The expected results of the project would be a reliable asset management tracking system that helps Reliable Delivery to track assets from the point ofpickup to the delivery address without any input by the courier and translates it to a visual point on the map for real-time tracking. The project would involve the implementation of this system in the delivery vehicles and assets along with proper sensors to get real-time tracking on maps and to ensure secure delivery of valuable documents.
+
+Integration of Hardcat’s cloud asset management software with Reliable Delivery’s current shipping system would be a strategic move for Reliable Delivery. The project would have a huge impact on improving Reliable’s business operations efficiency as well as its reputation. Reliable Delivery’s core values include customer first and innovation. This project would help Reliable in staying true to its core values by servicing the demands of the customer with the use of a new cloud-based asset management software to ensure secure delivery of assets. Successful integration of Hardcat’s asset management software with Reliable Delivery would also open up new collaborative opportunities for Reliable Delivery in delivering valuable documents and help in gaining a competitive advantage in its markets of operations.
+
+The project contains a detailed project charter, executive presentation and a detailed work breakdown structure (MS Project).
